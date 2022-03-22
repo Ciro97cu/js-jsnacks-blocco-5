@@ -6,10 +6,9 @@ const firstArray = ["a", "b", "c", "d", "e"];
 
 const secondArray = [1, 2, 3, 4, 5];
 
-const newArray = [];
-
 function joinArray(first, second) {
 
+    const newArray = [];
 
     for (let i = 0; i < first.length; i++) {
 
