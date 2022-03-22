@@ -85,5 +85,5 @@ console.log(arrayZucchineLunghe);
 const sommaCorte = sommaZucchine(arrayZucchineCorte);
 const sommaLunghe = sommaZucchine(arrayZucchineLunghe);
 
-console.log(sommaCorte);
-console.log(sommaLunghe);
+console.log(`Le zucchine corte pesano in tutto ${sommaCorte} grammi`);
+console.log(`Le zucchine lunghe pesano in tutto ${sommaLunghe} grammi`);
